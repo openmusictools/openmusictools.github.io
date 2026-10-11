@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://openmusictools.github.io/sitemap.xml
+Sitemap: https://openmusictools.github.io/chord-lab/sitemap.xml
+Sitemap: https://openmusictools.github.io/zman-lenagen/sitemap.xml
+Sitemap: https://openmusictools.github.io/Music-improvisation-room/sitemap.xml
+Sitemap: https://openmusictools.github.io/open-music-theory-hebrew/sitemap.xml
